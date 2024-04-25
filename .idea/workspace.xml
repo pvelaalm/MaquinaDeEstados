@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fefb452-e5eb-4911-9e46-480f7869d2fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MaquinaMates/Division/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MaquinaMates/Multiplicacion/Multiplicacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MaquinaMates/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MaquinaMates/OperationHandler/MathOperationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MaquinaMates/Resta/Resta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MaquinaMates/Suma/Suma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="2fefb452-e5eb-4911-9e46-480f7869d2fc" name="Changes" comment="Commit MaquinaA">
+      <change afterPath="$PROJECT_DIR$/src/main/java/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MaquinaDamas/DamasPrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MaquinaDamas/JuegoDamas/JuegoDamas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MaquinaDamas/TableroDamas/TableroDamas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MaquinaDamas/TurnoDamas/TurnoDamas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,8 +92,17 @@
       <updated>1713792214107</updated>
       <workItem from="1713792215132" duration="1937000" />
       <workItem from="1713887539250" duration="8000" />
-      <workItem from="1713970991167" duration="928000" />
+      <workItem from="1713970991167" duration="3662000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit MaquinaA">
+      <option name="closed" value="true" />
+      <created>1713972077688</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713972077688</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,5 +118,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit MaquinaA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit MaquinaA" />
   </component>
 </project>
