@@ -1,3 +1,5 @@
+package MainController;
+
 import MaquinaDamas.JuegoDamas.JuegoDamas;
 import MaquinaMates.CompositeOperation.CompositeOperation;
 import MaquinaMates.Operation;
