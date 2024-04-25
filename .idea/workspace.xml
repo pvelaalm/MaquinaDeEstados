@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fefb452-e5eb-4911-9e46-480f7869d2fc" name="Changes" comment="Commit MaquinaDamas terminada">
-      <change afterPath="$PROJECT_DIR$/src/main/java/MaquinaDamas/Excepciones/MovimientoInvalidoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MaquinaMates/Excepciones/OperacionMatematicaException.java" afterDir="false" />
+    <list default="true" id="2fefb452-e5eb-4911-9e46-480f7869d2fc" name="Changes" comment="Commit MainController y ExceptionHandler">
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecoratorN/DecoratorN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecoratorP/DecoratorP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandler/Machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MachineX/MachineX.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainController/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MaquinaDamas/JuegoDamas/JuegoDamas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MaquinaDamas/JuegoDamas/JuegoDamas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MaquinaMates/Division/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MaquinaMates/Division/Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExceptionHandler/ExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandler/ExceptionHandler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,7 @@
       <workItem from="1713792215132" duration="1937000" />
       <workItem from="1713887539250" duration="8000" />
       <workItem from="1713970991167" duration="4543000" />
-      <workItem from="1714040971036" duration="608000" />
+      <workItem from="1714040971036" duration="1517000" />
     </task>
     <task id="LOCAL-00001" summary="Commit MaquinaA">
       <option name="closed" value="true" />
@@ -111,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714036612380</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit MainController y ExceptionHandler">
+      <option name="closed" value="true" />
+      <created>1714041805051</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714041805051</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +139,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit MaquinaA" />
     <MESSAGE value="Commit MaquinaDamas terminada" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit MaquinaDamas terminada" />
+    <MESSAGE value="Commit MainController y ExceptionHandler" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit MainController y ExceptionHandler" />
   </component>
 </project>

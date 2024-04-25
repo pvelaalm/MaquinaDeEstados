@@ -3,7 +3,7 @@ package ExceptionHandler;
 import MaquinaDamas.Excepciones.MovimientoInvalidoException;
 import MaquinaMates.Excepciones.OperacionMatematicaException;
 
-public class ExceptionHandler {
+public class ExceptionHandler implements Machine{
     public void handleException(Exception e) {
         // Aquí puedes escribir la lógica para manejar diferentes tipos de excepciones
 
@@ -18,5 +18,6 @@ public class ExceptionHandler {
             System.out.println("Se produjo un error: " + e.getMessage());
         }
     }
+
 }
 
